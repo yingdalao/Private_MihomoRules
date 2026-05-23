@@ -1,0 +1,2 @@
+# Private_MihomoRules
+私人mihomo内核使用的分流规则
