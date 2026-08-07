@@ -1,0 +1,29 @@
+# 淘宝
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,taobaocdn.com
+DOMAIN-SUFFIX,alicdn.com
+
+# 支付宝
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+
+# 京东
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,360buy.com
+DOMAIN-SUFFIX,jdcdn.com
+
+# 拼多多
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,pinduoduo.net
+
+# 小米商城
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,xiaomi.com
+
+
+# 微信支付
+DOMAIN-SUFFIX,pay.weixin.qq.com
+
+# 银联
+DOMAIN-SUFFIX,unionpay.com
