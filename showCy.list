@@ -38,3 +38,19 @@ DOMAIN-SUFFIX,tc.qq.com
 
 # 银联
 DOMAIN-SUFFIX,unionpay.com
+
+
+# 百度网盘（个人版）
+DOMAIN-SUFFIX,pan.baidu.com
+DOMAIN-SUFFIX,yun.baidu.com
+DOMAIN-SUFFIX,pcs.baidu.com
+DOMAIN-SUFFIX,baidupcs.com
+DOMAIN-SUFFIX,pcscdns.baidu.com
+
+# 百度网盘（企业版）
+DOMAIN-SUFFIX,eyun.baidu.com
+DOMAIN-SUFFIX,pan.baidu.com
+DOMAIN-SUFFIX,baidupcs.com
+
+# 百度网盘登录认证（个人版、企业版共用）
+DOMAIN-SUFFIX,passport.baidu.com
