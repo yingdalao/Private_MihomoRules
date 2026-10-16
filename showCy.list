@@ -54,3 +54,9 @@ DOMAIN-SUFFIX,baidupcs.com
 
 # 百度网盘登录认证（个人版、企业版共用）
 DOMAIN-SUFFIX,passport.baidu.com
+
+# 1688 阿里巴巴批发
+DOMAIN-SUFFIX,1688.com
+DOMAIN-SUFFIX,1688.cn
+DOMAIN-SUFFIX,alibabacdn.com
+DOMAIN-SUFFIX,aliimg.com
